@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "rideName": "BIKE",
+        "vehicleType": "bike",
+        "image": "https://i.ibb.co/ZVyrpnk/Frame.png",
+        "capacity" : 4,
+        "cost" : "$67"
+        
+    },
+    {
+        "id": 2,
+        "rideName": "CAR",
+        "vehicleType": "car",
+        "image": "https://i.ibb.co/q0YLXTT/Frame-2.png",
+        "capacity" : 4,
+        "cost" : "$67"
+    },
+    {
+        "id": 3,
+        "rideName": "BUS",
+        "vehicleType": "bus",
+        "image": "https://i.ibb.co/By2HcrS/Frame-1.png",
+        "capacity" : 4,
+        "cost" : "$67"
+    },
+    {
+        "id": 4,
+        "rideName": "TRAIN",
+        "vehicleType": "train",
+        "image": "https://i.ibb.co/wJQ5gxM/Group.png",
+        "capacity" : 4,
+        "cost" : "$67"
+    }
+]
